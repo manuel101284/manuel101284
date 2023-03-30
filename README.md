@@ -38,9 +38,7 @@ Un Desarrollador Web Full Stack, con gusto por resolver problemas y aprender nue
 <h1 align="center">Connect to me</h1>
 <div align="center" style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/manuelricardocc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=Violet" target="_blank"></a>
-  
   <a href="https://discord.manuel101284#9918" target="blank"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white" /></a>
-  
   <a href="https://t.me/Manuel101284" target="blank"><img src="https://img.shields.io/badge/-Telegram-%232AABEE?style=for-the-badge&logo=Telegram&logoColor=white" /></a>
 </div>  
 
